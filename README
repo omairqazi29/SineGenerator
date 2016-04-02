@@ -1,0 +1,13 @@
+         File: SineGeneratorV3_0.zip
+       Author: cbauer@iphcip1.physik.uni-mainz.de (Christian Bauer)
+      Release: 3.0 (21.May 1998)
+Compatibility: R3 (PPC and x86)
+     Location: contrib/audio
+  Description: Sine tone generator with adjustable frequency
+        Notes:
+
+This is a simple quad sine tone generator I needed for an experiment.
+The output frequencies (0..11.5kHz) and amplitudes are set with the
+sliders. The "/10" checkbox gives you better control over lower
+frequencies. Press the "Reset Phase" button if you want to realign
+oscillators whose frequencies are multiples of each other.
